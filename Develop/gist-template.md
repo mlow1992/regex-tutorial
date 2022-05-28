@@ -68,4 +68,4 @@ The {} expression is also greedy when matching {2,6}.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Check out my other projects at https://github.com/mlow1992
